@@ -3,15 +3,15 @@
   <RDF:Description about="urn:mozilla:install-manifest">
 
     <!-- GUID and type -->
-    <em:id>cloud-to-butt@github.com</em:id>
+    <em:id>MyCurses@github.com</em:id>
     <em:type>2</em:type>
 
     <!-- Extension details -->
-    <em:name>Cloud To Butt</em:name>
-    <em:description>Replaces the text 'the cloud' with 'my butt'.</em:description>
+    <em:name>MyCurses</em:name>
+    <em:description>Replaces the text 'MyCourses' with 'MyCurses'.</em:description>
     <em:creator>Steven Frank</em:creator>
     <em:developer>Chris Wright</em:developer>
-    <em:homepageURL>https://github.com/DaveRandom/cloud-to-butt-mozilla</em:homepageURL>
+    <em:homepageURL>https://github.com/FruitieX/MyCurses-Mozilla</em:homepageURL>
 
     <!-- Current version -->
     <em:version>1.0</em:version>
